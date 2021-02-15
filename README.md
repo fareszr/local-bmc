@@ -2,6 +2,10 @@
 
 localized version of buy me a coffee script, to prohibit any external connections when there is no interactions by the user.
 
+## notice
+
+**this script was only tested with paypal, if there any issues with other payment providers feel free to open an issue, however my JS knowledge is very limted**
+
 ## usage
 
 all you have to do is to replace the js script link from buy me a coffee with a path to the custom script
